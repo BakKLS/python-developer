@@ -42,3 +42,5 @@ send_message("Привет")
 send_message("Как дела?")
 send_message("Как дела?")
 send_message("Привет")
+
+# Эта строка нужна для создания новой ветки
