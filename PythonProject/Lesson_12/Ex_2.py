@@ -59,3 +59,5 @@ print(get_items("books"))
 print(get_items("books"))
 print(get_items("books"))
 print(get_items("books"))
+
+""" Готов к проверке """
